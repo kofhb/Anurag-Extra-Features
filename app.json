@@ -1,7 +1,7 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
+    "name": "FONDNESS",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/d8daf35960bbb4a7f8558.jpg",
+    "logo": "https://telegra.ph/.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,19 +16,19 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/8769ANURAG/Anurag",
-    "repository": "https://github.com/8769ANURAG/Anurag",
+    "website": "https://github.com/kofhb",
+    "repository": "https://github.com/kofhb",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
+            "description": "Get this value from https://my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
+            "description": "Get this value from https://my.telegram.org",
             "required": true
         },
         "CHANNELS": {
@@ -77,7 +77,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Anurag_Files",
+            "value": "Telegram_Files",
             "required": false
         },
         "CACHE_TIME": {
@@ -87,7 +87,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MOVIES_ZILAA",
+            "value": "fondness_movi",
             "required": false
         },
         "IMDB": {
@@ -99,7 +99,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/8769ANURAG/Anurag/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/kofhb/Anurag-Extra-Features/issues/22",
             "value": "True",
             "required": false
         },
