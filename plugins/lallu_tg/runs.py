@@ -11,7 +11,7 @@ RUN_STRINGS = (
     "Don't be silent today...after today's fort...",
     "Thinking that it is ash, it will burn if you don't build it."
     "Understand that there is only one life, there is no heaven and no hell, 'one life', where and how he wants it".
-    " What a bombastic explosion such a terrific reveal!!",
+    " what a bombastic explosion such a terrific reveal!!",
     "Go Away Stupid in the House of My Wife and Daughter You Will Not See My Minute of Today... Don't Get Down...",
     "I Can Do That Do Can I That",
     "Just because there is cream in a cream biscuit, there is no tiger in a tiger biscuit. Pani milk, man...",
