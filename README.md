@@ -5,12 +5,12 @@
   <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
 </h1>
 
-<a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
+<a href="https://youtube.comg">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=blue)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/fork)
+[![Stars](https://img.shields.io/github.com/kofhb/Anurag-Extra-Features)?style=flat-square&color=green)](https://github.com/kofhb/Anurag-Extra-Features)
+[![Forks](https://img.shields.io/github.com/kofhb/Anurag-Extra-Features?style=flat-square&color=blue)](https://github.com/kofhb/Anurag-Extra-Features/fork)
 [![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=red)](https://github.com/AM-ROBOTS/Anurag-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/Anurag-Extra-Features)   
 [![Contributors](https://img.shields.io/github/contributors/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/graphs/contributors)
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/Anurag-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/kofhb/Anurag-Extra-Features">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Anurag users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᎯℕUℛᎯᎶ](https://t.me/MOVIES_ZILAA)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Fondness](https://telegram.dog/source_code_fondness) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com) | [ɢɪᴛʜᴜʙ](GitHub.com/kofhb)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [FONDNESS](https://t.me/fondness_movi)</b>
