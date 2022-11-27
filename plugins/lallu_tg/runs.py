@@ -5,36 +5,36 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 
 RUN_STRINGS = (
-    "ഓ.. ധിക്കാരം... പഴേപോലെ തന്നെ....ഒരു മാറ്റോമില്ല.....ചുമ്മാതല്ല ഗതി പിടിക്കാത്തത്....!!!",
-    "അള്ളാ... പിള്ളേരുടെ ഓരോ... പെഷനെ...",
-    "എനിക്ക് എഴുതാൻ അല്ലെ അറിയൂ സാറേ.... വായിക്കാൻ അറിയില്ലല്ലോ....",
-    "ഇന്ന് ഇനി നീ മിണ്ടരുത്... ഇന്നത്തെ കോട്ട കഴിഞ്ഞ്.....",
-    "ചാരമാണെന്ന് കരുതി ചെകയാൻ നിൽക്കണ്ട കനൽ കെട്ടിട്ടില്ലെങ്കിൽ പൊള്ളും.",
-    "ഒറ്റ ജീവിതമേ ഉള്ളു മനസിലാക്കിക്കോ, സ്വർഗ്ഗമില്ല നരകമില്ല, 'ഒറ്റ ജീവിതം', അത് എവിടെ എങ്ങനെ വേണമെന്ന് അവനവൻ തീരുമാനിക്കും",
-    "വാട്ട് എ ബോംബെസ്റ്റിക് എക്സ്പ്ലോഷൻ! സച് എ ടെറിഫിക് ഡിസ്ക്ലോസ്!!",
-    "ഗോ എവേ സ്ടുപ്പിഡ് ഇൻ ദി ഹൗസ് ഓഫ് മൈ വൈഫ്‌ ആൻഡ് ഡോട്ടർ യൂവിൽ നോട്ട് സി എനി മിനിറ്റ് ഓഫ് ദി ടുഡേ... ഇറങ്ങി പോടാ..",
-    "ഐ കാൻ ഡു ദാറ്റ്‌ ഡു കാൻ ഐ ദാറ്റ്‌",
-    "ക്രീം ബിസ്കറ്റിൽ ക്രീം ഉണ്ടന്ന് കരുതി ടൈഗർ ബിസ്കറ്റിൽ ടൈഗർ ഉണ്ടാകണമെന്നില്ല. പണി പാളും മോനെ...",
-    "പട പേടിച്ചു പന്തളത്തു ചെന്നപ്പോ പന്തോം കുത്തി പട പന്തളത്തോട്ടെന്ന് പറഞ്ഞ പോലെ ആയല്ലോ.",
-    "എന്റ കർത്താവെ.... എന്നെ നീ നല്ലവനാകാൻ സമ്മതിക്കൂല്ല അല്ലെ.",
-    "കാർ എൻജിൻ ഔട്ട് കംപ്ലീറ്റ്‌ലി......",
-    "തള്ളെ കലിപ്പ് തീരണില്ലല്ലോ!!",
-    "പാതിരാത്രിക്ക് നിന്റെ അച്ഛൻ ഉണ്ടാക്കി വെച്ചിരിക്കുന്നോ പൊറോട്ടയും ചിക്കനും....",
-    "ഓ പിന്നെ നീ ഒക്കെ പ്രേമിക്കുമ്പോൾ അത് പ്രണയം.... നമ്മൾ ഒക്കെ പ്രേമിക്കുമ്പോൾ അത് കമ്പി....",
-    "ദൈവമേ എന്നെ മാത്രം രക്ഷിക്കണേ....",
-    "അവളെ ഓർത്ത് കുടിച്ച കള്ളും നനഞ്ഞ മഴയും വേസ്റ്റ്....",
-    "ഇത്രേം കാലം എവിടെ ആയിരുന്നു....!",
-    "ഇൻഗ്ലീഷ് തീരെ പിടി ഇല്ല അല്ലെ....",
-    "ആൾ ദി ഡ്രീംസ്‌ ലൈക്‌ ട്വിങ്കിൽ സ്റ്റാർസ്...",
-    "എന്റെ പ്രാന്തൻ മുത്തപ്പാ അവനെ ഒരു വഴിയാക്കി തരണേ",
-    "പെങ്ങളെ കെട്ടിയ സ്ത്രീധന തുക തരുമോ അളിയാ",
-    "നീ വല്ലാതെ ക്ഷീണിച്ചു പൊയി",
-    "കണ്ണിലെണ്ണയൊഴിച്ചു കാത്തിരിക്കുവായിരുന്നളിയാ.",
-    "ചെല്ലാക്കണ്ടു എന്നിച്ചു പോടാ തടി.യാ .\
-    ഷട്ട് ഉഒ യുവർ മൗത് ബ്ലഡി gramavasis.",
-    "പോയി ചാവട .\
-    നിന്നെ കൊണ്ട് ചാവാൻ patto.",
-    "നിന്നെ കൊണ്ട് നാട്ടുകാർക്കും ഗുണോല്ല്യ വിട്ടുകാർക്കും ഗുണോല്ല്യ എന്തിനാ ഇങ്ങനെ നാണം കേട്ടു ജീവിക്കുന്നട പാട് വാഴെ ചെങ്കതളി വാഴ .", 
+   "Oh.. insolence... same as before....there is no change.....it's not the spit that doesn't hold the course...!!!",
+    "Allah... every child's... passion...",
+    "I don't know how to write sir... I don't know how to read...",
+    "Don't be silent today...after today's fort...",
+    "Thinking that it is ash, it will burn if you don't build it."
+    "Understand that there is only one life, there is no heaven and no hell, 'one life', where and how he wants it".
+    "What a bombastic explosion! Such a terrific reveal!!",
+    "Go Away Stupid in the House of My Wife and Daughter You Will Not See My Minute of Today... Don't Get Down...",
+    "I Can Do That Do Can I That",
+    "Just because there is cream in a cream biscuit, there is no tiger in a tiger biscuit. Pani milk, man...",
+    "It's like when Pata got scared and went to the panthalam, it's like Pantom said to go to the panthalam."
+    "My Lord.... You will not allow me to be good.",
+    "Car engine out completely...",
+    "It's not over now!"
+    "Has your father made porotta and chicken for midnight...",
+    "Oh, when you fall in love, it's love. When we fall in love, it's wire...."
+    "God save me alone...",
+    "Waste the toddy and wet rain drunk for her sake...",
+    "Where have you been all this time...!",
+    "You don't know much English, do you?"
+    "All the Dreams Like Twinkle Stars...",
+    "My Pranthan Thappa make him a way",
+    "Will you give me the dowry amount, Ali?"
+    "You're so tired"
+    "I was waiting with tears in my eyes."
+    "Let's go and say, wood. Ya .\
+    Shut your mouth bloody gramavasis.",
+    "Go shit.\
+    patto die with you.",
+    "Because of you, the locals and those who left Gunollya, why are Gunollya living so shamelessly, Red-tali banana.", 
 )
 
 
